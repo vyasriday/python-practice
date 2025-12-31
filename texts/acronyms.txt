@@ -1,0 +1,5 @@
+FIFO=FIRST IN FIRST OUT
+LIFO=Last In Last Out
+LOL=Laugh Out LoudBIBO: Best In Best Out
+ML=Machine Learning
+DB=Database
